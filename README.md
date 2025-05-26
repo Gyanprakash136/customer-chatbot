@@ -236,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help with the chatbot:
 - Open an issue on GitHub
-- Contact: [Your Email]
+- Contact: gyan.official.work0902@gmail.com
 - Documentation: Check this README
 
 ---
